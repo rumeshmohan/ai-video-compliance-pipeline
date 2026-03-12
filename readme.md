@@ -1,6 +1,6 @@
-# Brand Guardian AI
+# Brand Guardian AI 
 
-AI-powered video compliance auditing system. Analyzes YouTube videos against brand guidelines using Azure Video Indexer, Azure AI Search (RAG), and LangGraph.
+AI-powered video compliance auditing system/ai-video-compliance-pipeline. Analyzes YouTube videos against brand guidelines using Azure Video Indexer, Azure AI Search (RAG), and LangGraph.
 
 ## Architecture
 
